@@ -1,0 +1,49 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "name": "Naomi",
+      "image": "./assets/friends/naomi.jpg",
+      "sun": "Sagittarius",
+      "moon": "Libra",
+      "rising": "Leo",
+      "color":  "#ED2939"
+    },
+    {
+      "id": 1,
+      "name": "Deb",
+      "image": "./assets/friends/deb.jpg",
+      "sun": "Scorpio",
+      "moon": "Cancer",
+      "rising": "Cancer",
+      "color": "#89CFF0"
+    },
+    {
+      "id": 1,
+      "name": "Halo",
+      "image": "./assets/friends/halo.jpg",
+      "sun": "Virgo",
+      "moon": "Capricorn",
+      "rising": "Cancer",
+      "color": "#F8DE7E"
+    },
+    {
+      "id": 1,
+      "name": "Nehemiah",
+      "image": "./assets/friends/nehemiah.jpg",
+      "sun": "Scorpio",
+      "moon": "Gemini",
+      "rising": "Aries",
+      "color": "#89CFF0"
+    },
+    {
+      "id": 1,
+      "name": "Noelle",
+      "image": "./assets/friends/noelle.jpg",
+      "sun": "Sagittarius",
+      "moon": "Aries",
+      "rising": "Aries",
+      "color":  "#ED2939"
+    }
+  ]
+}
